@@ -23,5 +23,15 @@ fields:
   default: elements
   config:
     required: true
+- name: test1
+  type: number
+  label: Test1
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - src/pages/elements.md
