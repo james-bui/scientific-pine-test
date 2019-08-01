@@ -1,7 +1,8 @@
 ---
 social_icons:
 - title: Wechat
-  icon: Wechat
+  icon: fa-wechat
+  url: "#"
 - title: Twitter
   icon: fa-twitter
   url: "#"
