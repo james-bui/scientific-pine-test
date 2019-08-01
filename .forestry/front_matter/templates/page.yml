@@ -38,4 +38,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/test-page-2.md
 - src/pages/generic.md
